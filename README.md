@@ -10,7 +10,7 @@ This dataset have each country as a data point (227 countries in total), and for
 ## Project Goal
 The goal of the project is to understand this dataset, get some insights from it, and finally to train a model that can predict GDP per capita for each country. 
 
-![](/Prediction_performance.png)
+![](/regional-average-gdp-per-capita.png)
 
 ## Conclusion 
 4 different learning regressors (Linear Regression, SVM, Random Forest, and Gradiant Boosting) were tested, and we have acheived the best prediction performance using Random Forest, followed by Gradiant Boosting, then Linear Regression, while SVM acheived the worst performance of the four.
@@ -23,4 +23,4 @@ The best prediction performance was acheived with a Random Forest regressor, usi
 
 (gdp_per_capita values in the dataset ranges from 500 to 55100 USD).
 
-![](/regional-average-gdp-per-capita.png)
+![](/Prediction_performance.png)
