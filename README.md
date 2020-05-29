@@ -13,9 +13,9 @@ The goal of the project is to understand this dataset, get some insights from it
 ![](/regional-average-gdp-per-capita.png)
 
 #### Conclusion 
-4 different learning regressors (Linear Regression, SVM, Random Forest, and Gradiant Boosting) were tested, and we have acheived the best prediction performance using Random Forest, followed by Gradiant Boosting, then Linear Regression, while SVM acheived the worst performance of the four.
+4 different learning regressors (Linear Regression, SVM, Random Forest, and Gradient Boosting) were tested, and we have achieved the best prediction performance using Random Forest, followed by Gradient Boosting, then Linear Regression, while SVM achieved the worst performance of the four.
 
-The best prediction performance was acheived with a Random Forest regressor, using all features in the dataset, and resulted in the following metrics:
+The best prediction performance was achieved with a Random Forest regressor, using all features in the dataset, and resulted in the following metrics:
 
 * Mean Absolute Error (MAE): 2142.13
 * Root mean squared error (RMSE): 3097.19
