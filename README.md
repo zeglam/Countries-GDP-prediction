@@ -1,4 +1,4 @@
-# Countries-GDP-prediction
+# Countries-GDP-prediction [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/zeglam/countries-gdp-prediction/app.py)
 
 #### Data Source
 We have 'Countries of The World' data set 
